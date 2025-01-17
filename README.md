@@ -41,5 +41,5 @@ A TEE runs alongside the Rich Execution Environment (e.g., Linux) to perform sec
   [Email Security Guidelines](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-177r1.pdf)
 
 ### Low Level Security
-  - ** CHIPSec**
+  - **CHIPSec**
     [https://chipsec.github.io]
