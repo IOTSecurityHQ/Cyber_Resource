@@ -43,7 +43,7 @@
 
   - **Linux Boot Process**
     
-      [Wiki](https://en.wikipedia.org/wiki/Booting_process_of_Linux#:~:text=In%20UEFI%20systems%2C%20the%20Linux,EFI%2Dstub%2Dbearing%20kernel.)
+          [Wiki](https://en.wikipedia.org/wiki/Booting_process_of_Linux#:~:text=In%20UEFI%20systems%2C%20the%20Linux,EFI%2Dstub%2Dbearing%20kernel.)
 
      
 
