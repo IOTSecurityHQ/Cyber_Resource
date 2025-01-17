@@ -44,6 +44,7 @@
   - **Linux Boot Process**
     
     -[Wiki](https://en.wikipedia.org/wiki/Booting_process_of_Linux#:~:text=In%20UEFI%20systems%2C%20the%20Linux,EFI%2Dstub%2Dbearing%20kernel.)
+    -[boot prcess with code](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 
      
 
