@@ -21,6 +21,20 @@
      - Linux Kernel Components
          [Background](https://developer.ibm.com/articles/l-linux-kernel/)
 
+     - User Space vs Kernel Space
+       -   [short read](https://www.linfo.org/kernel_space.html)
+       -   [wiki](https://en.wikipedia.org/wiki/User_space_and_kernel_space#:~:text=Kernel%20space%20is%20strictly%20reserved,one%20address%20space%20per%20process.)
+       -   [linux system calls](https://man7.org/linux/man-pages/man2/syscalls.2.html)
+
+    - [Linux Process](https://linux-kernel-labs.github.io/refs/heads/master/lectures/processes.html)
+ 
+    - Address Space Layout Randomization
+    -   [wiki](https://en.wikipedia.org/wiki/Address_space_layout_randomization)
+    -   [Linux Kernel address space layout randomization](http://selinuxproject.org/~jmorris/lss2013_slides/cook_kaslr.pdf)
+  
+
+     
+
 ---
 
 ### Trusted Execution Environment
