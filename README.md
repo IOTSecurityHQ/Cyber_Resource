@@ -18,6 +18,9 @@
 - **Linux Kernel and Security**  
   [Linux Foundation Training](https://training.linuxfoundation.org/training/security-and-linux-kernel-lfd441/) *(this course is pricey but worth it)*
 
+     - Linux Kernel Components
+         [Background](https://developer.ibm.com/articles/l-linux-kernel/)
+
 ---
 
 ### Trusted Execution Environment
