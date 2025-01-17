@@ -47,7 +47,10 @@
     
     -[boot prcess with code](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 
-     
+  - **Linux Kernel Module Signing**
+      - [High Level](https://www.kernel.org/doc/html/v4.15/admin-guide/module-signing.html)
+      - [Gentoo](https://wiki.gentoo.org/wiki/Signed_kernel_module_support)
+    
 
 ---
 
