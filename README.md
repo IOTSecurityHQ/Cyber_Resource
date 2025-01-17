@@ -33,7 +33,8 @@
       
       -   [wiki](https://en.wikipedia.org/wiki/Address_space_layout_randomization)
       -   [Linux Kernel address space layout randomization](http://selinuxproject.org/~jmorris/lss2013_slides/cook_kaslr.pdf)
-  
+
+  - [Kernel Self Protection](https://docs.kernel.org/security/self-protection.html)
 
      
 
