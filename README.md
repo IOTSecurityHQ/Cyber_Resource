@@ -38,6 +38,8 @@
   - [Posix Access Control](https://www.usenix.org/legacy/publications/library/proceedings/usenix03/tech/freenix03/full_papers/gruenbacher/gruenbacher_html/main.html)
   - [Control Group](https://0xax.gitbooks.io/linux-insides/content/Cgroups/linux-cgroups-1.html)
   - [SecComp](https://lwn.net/Articles/656307/)
+  - [Integrity Measurement Architecture](https://ima-doc.readthedocs.io/en/latest/ima-concepts.html)
+  - 
 
 
 
