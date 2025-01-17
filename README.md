@@ -56,6 +56,8 @@ the IP address. There are few vendors. The best way to learn is understand how t
 
 The industry is moving into zero trust principle which mean all network interaction must be authenticated and authorized. 
 this is nist paper on zero trust.
+
+
 -**NIST Zero Trust Architecture**
 [NIST zero trust][https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf]
 
