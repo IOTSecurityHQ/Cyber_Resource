@@ -54,7 +54,7 @@
       - [Gentoo](https://wiki.gentoo.org/wiki/Signed_kernel_module_support)
     
 
---- **File System Level Encryption**
+ - **File System Level Encryption**
     [Kernel Doc](https://www.kernel.org/doc/html/v5.1/filesystems/fscrypt.html)
 
 ### Trusted Execution Environment
