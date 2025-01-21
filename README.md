@@ -110,6 +110,9 @@ All products/service services can be vulnerbility. Usually componenet in product
 Common Vulnerabilty Enumeration (CVE) is database of all open vulnerabilty. The day the vulnerability is posed is called zero day. 
 [CVE](https://cve.mitre.org)
 
+To know if the product/system is vulnerable, we need to know components with vulnerability is in the product. Software Build Of Material (SBOM) are way to keep track of it. 
+[SBOM](https://www.cisa.gov/sbom)
+
 The response to vulnerabilty might include creation of patch. NIST has framework for patch management
 [NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf)
 
