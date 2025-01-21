@@ -98,12 +98,12 @@ this is nist paper on zero trust.
 -**NIST Zero Trust Architecture**
 [NIST zero trust](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
 
-
+---
 ### Multi Factor Authentication
 FIDO is open standard for implementing multifactor authentication
 [FIDO](https://fidoalliance.org/specifications/)
 
-
+---
 ### Vulnerability Management 
 All products/service services can be vulnerbility. Usually componenet in product have vulnerability which transitively lead to vulnerabilty in the product. 
 
