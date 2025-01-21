@@ -98,3 +98,20 @@ this is nist paper on zero trust.
 -**NIST Zero Trust Architecture**
 [NIST zero trust](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
 
+
+### Multi Factor Authentication
+FIDO is open standard for implementing multifactor authentication
+[FIDO](https://fidoalliance.org/specifications/)
+
+
+### Vulnerability Management 
+All products/service services can be vulnerbility. Usually componenet in product have vulnerability which transitively lead to vulnerabilty in the product. 
+
+Common Vulnerabilty Enumeration (CVE) is database of all open vulnerabilty. The day the vulnerability is posed is called zero day. 
+[CVE](https://cve.mitre.org)
+
+The response to vulnerabilty might include creation of patch. NIST has framework for patch management
+[NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf)
+
+CVSS score determine risk factor of the vulnerabily.
+[CVSS](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System)
